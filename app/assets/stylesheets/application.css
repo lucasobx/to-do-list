@@ -32,7 +32,7 @@
    display: flex;
    justify-content: center;
    align-items: center;
-   background: linear-gradient(102.7deg, #d1d0ff, #e4bbff, #ffdae3, #ffddfc)
+   background: linear-gradient(130deg,rgb(191,117,165) 0%,rgb(186,217,223) 100%)
      fixed;
  }
  input,
